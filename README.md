@@ -1,4 +1,4 @@
-# MA1-Stage
+# MA1-Stage : IR spectra
 
 Dans le contexte d'un stage de première année de master, nous avons analysé des spectres infrarouges de géantes rouges évoluées. Les spectres ont été pris par le spectrographe IGRINS dans la bande K et H. 
 
